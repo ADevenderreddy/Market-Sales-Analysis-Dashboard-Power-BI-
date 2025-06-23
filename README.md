@@ -33,7 +33,7 @@ The main objective of this project is to:
   * Product-wise conversion performance.
   * Social media views, clicks, and likes trends.
 
-![Overview](./0dee965a-51de-4930-b5a1-d22563846c05.png)
+![Overview](./Overview.png)
 
 ---
 
@@ -49,7 +49,7 @@ The main objective of this project is to:
 
   * Helps identify high-performing products and timeframes.
 
-![Conversion Details](./1dfe895a-1ee2-497f-9c64-20cad1053786.png)
+![Conversion Details](./Conversion_Details.png)
 
 ---
 
@@ -65,7 +65,7 @@ The main objective of this project is to:
   * **Ice Skates**: 193,992 views
   * **Cycling Helmet**: 182,404 views
 
-![Social Media](./5bb16053-9165-41e6-b41e-72bfb3c53a5c.png)
+![Social Media](./Social_Media_Details.png)
 
 ---
 
@@ -80,6 +80,7 @@ The main objective of this project is to:
   * Majority reviews are positive.
   * Negative reviews highlight quality and delivery issues.
 * Sentiment vs. Rating visual to evaluate customer satisfaction trends.
+  ![Customer Review Details](./Customer_Review_Details.png)
 
 ---
 
