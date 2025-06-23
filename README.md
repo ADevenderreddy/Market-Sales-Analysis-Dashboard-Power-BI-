@@ -2,14 +2,14 @@
 
 This project presents an in-depth **Market Sales Analysis** using **Power BI**, focusing on key metrics such as conversion rates, social media performance, and customer reviews. Through interactive dashboards and detailed breakdowns, the project uncovers valuable insights to improve product performance, customer engagement, and marketing strategies.
 
-![Dashboard Preview](./968f5985-86c8-4a4f-8078-defd053d664c.png)
+![Dashboard Preview](Overviewe.png)
 
 ## 📌 Project Objective
 
 The main objective of this project is to:
 
 * Analyze sales performance across multiple sports and fitness products.
-* Track customer journey stages: Views → Clicks → Purchases.
+* Track customer journey stages: Views → Clicks → Purchases. 
 * Understand customer sentiment and review trends.
 * Evaluate conversion rates per product and time.
 * Leverage social media metrics to enhance product reach.
