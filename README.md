@@ -2,7 +2,7 @@
 
 This project presents an in-depth **Market Sales Analysis** using **Power BI**, focusing on key metrics such as conversion rates, social media performance, and customer reviews. Through interactive dashboards and detailed breakdowns, the project uncovers valuable insights to improve product performance, customer engagement, and marketing strategies.
 
-![Dashboard Preview](Overviewe.png)
+![Dashboard Preview](./Overviewe.png)
 
 ## 📌 Project Objective
 
